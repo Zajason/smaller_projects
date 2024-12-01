@@ -24,7 +24,7 @@ Below is a brief overview of the projects currently included in this repository:
    - Demonstrates applications of graph theory in financial modeling.
 
 4. **Fibonacci Algorithm Comparison**
-   - Implementation of three different algorithms for finding the n-th Fibonacci number
+   - Implementation of three different algorithms for finding the n-th Fibonacci number(recursive memoization , 2x2 matrix and iterative method).
    - Comparison of the speed of the algorithms
 
 6. **(More Projects Coming Soon)**
