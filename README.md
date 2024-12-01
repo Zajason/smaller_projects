@@ -23,7 +23,11 @@ Below is a brief overview of the projects currently included in this repository:
    - Implementation of the Floyd-Warshall algorithm to detect arbitrage opportunities in currency exchange rates.
    - Demonstrates applications of graph theory in financial modeling.
 
-4. **(More Projects Coming Soon)**
+4. **Fibonacci Algorithm Comparison**
+   -Implementation of three different algorithms for finding the n-th Fibonacci number
+   -Comparison of the speed of the algorithms
+
+6. **(More Projects Coming Soon)**
    - Additional projects will include a variety of algorithms, data structures, and domain-specific tools, with focus areas including:
      - Graph algorithms
      - Financial modeling tools
