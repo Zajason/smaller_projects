@@ -24,8 +24,8 @@ Below is a brief overview of the projects currently included in this repository:
    - Demonstrates applications of graph theory in financial modeling.
 
 4. **Fibonacci Algorithm Comparison**
-   -Implementation of three different algorithms for finding the n-th Fibonacci number
-   -Comparison of the speed of the algorithms
+   - Implementation of three different algorithms for finding the n-th Fibonacci number
+   - Comparison of the speed of the algorithms
 
 6. **(More Projects Coming Soon)**
    - Additional projects will include a variety of algorithms, data structures, and domain-specific tools, with focus areas including:
